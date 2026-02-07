@@ -70,7 +70,7 @@ function Prompt() {
             style={buttonStyle} 
             onClick={() => setView('prompt')}
           >
-            Try Again
+            try again
           </button>
         ) : view === 'prompt' ? (
           <>
